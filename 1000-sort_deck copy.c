@@ -93,6 +93,7 @@ int _strcmp(const char *s1, const char *s2)
 	return (*s1 - *s2);
 }
 
+
 /**
  * list_len_deck - function returns length of list
  * @list: head of list
